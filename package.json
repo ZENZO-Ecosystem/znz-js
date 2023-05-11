@@ -1,0 +1,34 @@
+{
+    "name": "znz-js",
+    "version": "1.4.0",
+    "description": "Pure Node.js implementation for ZNZ",
+    "main": "index.js",
+    "dependencies": {
+        "@noble/secp256k1": "^1.5.5",
+        "big-integer": "^1.6.48"
+    },
+    "scripts": {
+        "test": "node tests.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ZENZO-Ecosystem/znz-js.git"
+    },
+    "keywords": [
+        "zenzo",
+        "znz",
+        "webwallet",
+        "core",
+        "transactions",
+        "addresses",
+        "keys",
+        "crypto",
+        "cryptography"
+    ],
+    "author": "JSKitty",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ZENZO-Ecosystem/znz-js/issues"
+    },
+    "homepage": "https://github.com/ZENZO-Ecosystem/znz-js#readme"
+}
