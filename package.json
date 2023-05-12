@@ -1,6 +1,6 @@
 {
     "name": "znz-js",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "description": "Pure Node.js implementation for ZNZ",
     "main": "index.js",
     "dependencies": {
